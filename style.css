@@ -1,0 +1,86 @@
+body{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 0px;
+}
+header{
+    font-weight: 500;
+    display: flex;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: hsl(210, 29%, 24%);
+    color: white;
+    
+}
+.language{
+    text-align-last: right;
+}
+
+.logo{
+    text-align: center;
+    align-items: center;
+    padding: 100px;
+    background-color: #18bc9c;
+    color: white;
+}
+.content{
+    justify-content: center;
+    text-align: center;
+    background-color: #f7f7f7;
+}
+.Grasshopper{
+    color: #999;
+    text-align: center;
+}
+
+
+
+.header-text{
+    padding: 15px 15px;
+   justify-content: end;
+    
+}
+.cards{
+    padding: 80px;
+    
+}
+
+
+.card1 {
+    display: flex;
+    text-align: center;
+  
+    padding: 20px;
+}
+.card{
+    text-align: center;
+    padding: 50px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: white;
+    height: 300px;
+
+}
+.card:hover {
+    background-color:  #18bc9c;
+  }
+.card img {
+    border-radius: 50%;
+}
+
+.footer{
+display:flex;
+text-align: center;
+background-color:  hsl(210, 29%, 24%);
+}
+
+.footer-center{
+    padding-left: 100px;
+    padding-right: 100px;
+    display: flex;
+}
+.footer-text{
+    color: white;
+    align-items: center;
+    padding: 40px;
+    
+}
