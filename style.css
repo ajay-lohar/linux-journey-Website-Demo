@@ -9,6 +9,7 @@ header{
     padding-right: 100px;
     background-color: hsl(210, 29%, 24%);
     color: white;
+    justify-content:space-beetween;
     
 }
 .language{
